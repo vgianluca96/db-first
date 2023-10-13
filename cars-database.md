@@ -15,6 +15,7 @@
 - cavalli | SMALLINT, NULL
 - km_percorsi | MEDIUMINT, NULL
 - anno | YEAR, NULL
-- alimentazione | VARCHAR(10), NULL
-- trazione | VARCHAR(10), NULL
+- colore | VARCHAR(20), NULL
+- alimentazione | VARCHAR(20), NULL
+- trazione | VARCHAR(20), NULL
 - optional | TEXT, NULL
